@@ -1,0 +1,5 @@
+TOKEN = "2027079368:AAHYZyrSz-9c7iCGsLzgkB7cqcyas3H0Amo"
+URL_JIHC = "https://testometrika.com/personality-and-temper/find-out-your-psychological-age/"
+URL_APPLE = "https://testometrika.com/depression-and-stress/test-for-level-of-depression/"
+URL_JIHCqwe = "https://testometrika.com/personality-and-temper/questionnaire-eysenck-pen/"
+URL_APPLEqwe = "https://testometrika.com/intellectual/test-raven-iq/"
